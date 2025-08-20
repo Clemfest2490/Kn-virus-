@@ -1,14 +1,14 @@
 const fs = require('fs')
 
 //~~~~~~~~~~~ Settings Owner ~~~~~~~~~~~//
-global.owner = "263780145644"
-global.developer = "263780145644"
+global.owner = "2349130155671"
+global.developer = "2349130155671"
 global.bot = ""
-global.devname = "Snowbird"
-global.ownername = "Snowbird"
-global.botname = "Lady bella"
+global.devname = "kn virus"
+global.ownername = "knvirus"
+global.botname = "knvirus"
 global.versisc = "2"
-global.packname = "⎋Lady bella"
+global.packname = "⎋kn virus"
 //~~~~~~~~~~~ Settings Sosmed ~~~~~~~~~~~//
 global.linkwa = "https://wa.me/263780145644"
 global.linkyt = "https://www.youtube.com/@lukepraise"
